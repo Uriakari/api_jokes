@@ -1,0 +1,131 @@
+/* nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    background-color: whitesmoke;
+    border: none;
+}
+
+nav ul {}
+
+nav li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+
+}
+
+nav a {
+    text-decoration: none;
+    padding: 30px;
+    color: #1A274A;
+    font-weight: 50px;
+    font-family: fantasy;
+}
+
+nav a:hover {
+    background-color: #6FD1EC;
+    border-radius: 100px;
+} */
+
+
+/* .hero {
+    background-image: url(../images/joke.jpg);
+    width: 100vw;
+    height: 80vh;
+    border: none;
+
+} */
+
+h1 {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 0 0 100px , 0 0 5px #070707;
+
+}
+
+
+
+
+body {
+    background-color: #bd02a4;
+}
+
+.wrapper {
+    width: 80vmin;
+    padding: 50px 40px;
+    background-color: #15161a;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 5px;
+    box-shadow: 20px 20px 40px rgba(97, 63, 0, 0.4);
+}
+
+span {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 100px;
+}
+
+p {
+    font-size: 16px;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 300px;
+    word-wrap: break-word;
+    line-height: 35px;
+    margin: 30px 0;
+    opacity: 0;
+}
+
+.fade {
+    opacity: 1;
+    transition: opacity 1.5s
+}
+
+button {
+    display: block;
+    background-color: #bd02a4;
+    border: none;
+    padding: 5px;
+    font-size: 18px;
+    color: #171721;
+    font-weight: 600;
+    padding: 12px 25px;
+    margin: 0 auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+/* /* 
+.hero h1 {
+    
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 100px;
+    color:#FF9D4E;
+    text-shadow: 0 0 100px #FF0000, 0 0 5px #0000FF;
+   
+} */
+
+/* #rotate {
+    transform: rotate(45deg);
+        /* display: inline-block;  */
+        /* font-size: 30px; 
+        padding: 5px; 
+        font-size: 50px; 
+} */ 
+
