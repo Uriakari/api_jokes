@@ -51,7 +51,10 @@ h1 {
 }
 
 
-
+hr {
+    margin-left: 30px;
+    margin-right: 30px;
+}
 
 body {
     background-color: #bd02a4;
